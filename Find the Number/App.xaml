@@ -1,0 +1,8 @@
+﻿<Application
+    x:Class="Find_the_Number.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Find_the_Number"
+    RequestedTheme="Light">
+
+</Application>
